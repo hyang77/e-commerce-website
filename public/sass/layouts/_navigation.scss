@@ -1,0 +1,23 @@
+.navigation{
+    padding: 2rem;
+    background-color: $color-grey-dark-2;
+}
+.flexbox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    &-logo{
+        display: flex;
+        align-items: center;
+        height: 5vw;
+
+        &--img{
+            height: 50%;
+            margin-right: 1rem;
+        }
+        &--font{
+            font-size: 5rem;
+        }
+    }
+}
