@@ -1,3 +1,3 @@
 # e-commerce-website
-Frontend: Run npm start to see the project in the browser  
-Backend: Run node app.js to run the express server  
+Frontend: Run npm run start to see the project in the browser  
+Backend: Run npm start to run the express server  
